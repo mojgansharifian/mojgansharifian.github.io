@@ -15,6 +15,9 @@ author: Some Person
 
 navbar-links:
   About Me: "aboutme"
+  Presentations:
+    - Visibility: "ranking/index.html"
+    - University Ranking: ""
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
